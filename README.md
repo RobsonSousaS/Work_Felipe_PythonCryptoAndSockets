@@ -5,7 +5,7 @@ Este é um exemplo de um chat criptografado em Python usando a biblioteca `Crypt
 ## Requisitos
 
 - Python 3.x
-- Biblioteca `cryptography` para criptografia simétrica: Você pode instalá-la usando o comando `pip install cryptography`.
+- Biblioteca `Crypto` para criptografia simétrica: Você pode instalá-la usando o comando `pip install pycryptodome`.
 
 ## Como Funciona
 
