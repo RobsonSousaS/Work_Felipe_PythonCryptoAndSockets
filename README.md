@@ -48,7 +48,7 @@ O arquivo `Cliente.py` é responsável por se conectar ao servidor. Quando conec
 
    Para encerrar o chat, basta digitar "sair" em qualquer um dos lados (cliente ou servidor). O programa será encerrado tanto para o cliente quanto para o servidor.
 
-## Criadores
+## Desenvolvedores
 
 - **Robson Sousa da Silva**
 - **Rubens Abraão da Silva Sousa**
