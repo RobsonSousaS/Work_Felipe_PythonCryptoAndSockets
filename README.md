@@ -24,8 +24,8 @@ O arquivo `Cliente.py` é responsável por se conectar ao servidor. Quando conec
 1. **Clone o Repositório:**
 
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/RobsonSousaS/Work_Felipe_PythonCryptoAndSockets.git
+   cd Work_Felipe_PythonCryptoAndSockets
    ```
 
 2. **Execute o Servidor:**
